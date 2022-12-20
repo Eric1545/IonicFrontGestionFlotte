@@ -1,0 +1,7 @@
+1 - page qui permet de liste les avions
+2 - page qui permet de voir les details par avions
+    - get  par id avions
+    - get api kilometrages par avions
+3 - page de login (avant d'entrer dans les details des avions)
+4 - page qui permet de choisir la date d'expiration d'assurance (1 mois, 3 mois)
+5 - page qui permet de voir les avions expirer dans la date d'assurance
